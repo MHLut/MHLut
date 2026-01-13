@@ -10,7 +10,7 @@ PS. Apologies to those who just read my username in English and think it sounds 
 
 * Like my name, my company is called **Mah-Rye-Kuh** ([Hire me](https://mah-rye-kuh.nl/en/hire-me/)).
 * I am a member of the [Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/) (DSF).
-* I am also a member of the **Django Accessibility Team**.
+* I was a member of the **Django Accessibility Team**.
 * Coffee is not my cup of tea. Tea, on the other hand…
 
 ### On the web
