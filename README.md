@@ -15,11 +15,4 @@ PS. Apologies to those who just read my username in English and think it sounds 
 
 ### On the web
 
-* [Personal website and blog](https://marijkeluttekes.dev/).
-* [Professional website](https://mah-rye-kuh.nl/en/).
-* [My talks on YouTube](https://www.youtube.com/playlist?list=PLGiXPW-xc03NBkBs1MKqL49aR9YYI_oAG).
-
-### Contact me
-
-* [LinkedIn](https://www.linkedin.com/in/mhluttekes/).
-* [Fosstodon](https://fosstodon.org/@mahryekuh).
+See my [link hub](https://marijke.luttek.es) for current links.
