@@ -13,6 +13,8 @@ PS. Apologies to those who just read my username in English and think it sounds 
 * I was a member of the **Django Accessibility Team**.
 * Coffee is not my cup of tea. Tea, on the other hand…
 
+_NB. I do not use GitHub for personal projects._
+
 ### On the web
 
 See my [link hub](https://marijke.luttek.es) for current links.
