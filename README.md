@@ -1,6 +1,6 @@
 ## Hello there! 👋🏻👩🏻‍💻
 
-My name is _Marijke_, and it is pronounced Mah-Rye-Kuh. I am a freelance web developer from Groningen, The Netherlands.
+My name is <i lang="nl-NL">Marijke</i>, and it is pronounced <i lang="en-US">Mah-Rye-Kuh</i>. I am a freelance web developer from Groningen, The Netherlands.
 
 I specialize in **Django, Python, HTML, and CSS**, with a sprinkle of JavaScript. I am also interested in **accessibility**.
 
